@@ -42,6 +42,15 @@
       "url": "https://explorer.1am.xyz",
       "category": "tools",
       "networks": ["preview", "preprod", "mainnet"]
+    },
+    {
+      "id": "northstar-dex",
+      "name": "NorthStar DEX",
+      "description": "Privacy-first DEX on Midnight",
+      "icon": "https://preprod.northstardex.com/app-icons/northstar-logo.png",
+      "url": "https://preprod.northstardex.com",
+      "category": "defi",
+      "networks": ["preprod"]
     }
   ]
 }
