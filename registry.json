@@ -50,7 +50,9 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/northstar-dex.png",
       "url": "https://preprod.northstardex.com",
       "category": "defi",
-      "networks": ["preprod"]
+      "networks": ["preprod"],
+      "featured": true,
+      "new": true
     }
   ]
 }
