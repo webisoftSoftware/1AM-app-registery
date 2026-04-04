@@ -47,7 +47,7 @@
       "id": "northstar-dex",
       "name": "NorthStar DEX",
       "description": "Privacy-first DEX on Midnight",
-      "icon": "https://preprod.northstardex.com/app-icons/northstar-logo.png",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/northstar-dex.png",
       "url": "https://preprod.northstardex.com",
       "category": "defi",
       "networks": ["preprod"]
