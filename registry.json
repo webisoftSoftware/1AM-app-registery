@@ -62,7 +62,6 @@
       "url": "https://testnet.ascend.market",
       "category": "defi",
       "networks": ["preview"],
-      "featured": true,
       "new": true
     }
   ]
