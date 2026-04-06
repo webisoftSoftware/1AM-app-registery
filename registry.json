@@ -9,7 +9,9 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/ascend.svg",
       "url": "https://testnet.ascend.market",
       "category": "defi",
-      "networks": ["preview"],
+      "networks": [
+        "preview"
+      ],
       "featured": true,
       "new": true
     },
@@ -20,7 +22,11 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/zkmint.svg",
       "url": "https://zkmint.1am.xyz",
       "category": "identity",
-      "networks": ["preview", "preprod", "mainnet"],
+      "networks": [
+        "preview",
+        "preprod",
+        "mainnet"
+      ],
       "featured": true,
       "new": true
     },
@@ -31,7 +37,9 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/midnight-faucet.svg",
       "url": "https://midnight-dust-mainnet.nethermind.io",
       "category": "tools",
-      "networks": ["mainnet"],
+      "networks": [
+        "mainnet"
+      ],
       "featured": true,
       "new": true
     },
@@ -42,7 +50,11 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
       "url": "https://dominion.fun",
       "category": "gaming",
-      "networks": ["preview", "preprod", "mainnet"]
+      "networks": [
+        "preview",
+        "preprod",
+        "mainnet"
+      ]
     },
     {
       "id": "1am-explorer",
@@ -51,7 +63,11 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/1am-explorer.svg",
       "url": "https://explorer.1am.xyz",
       "category": "tools",
-      "networks": ["preview", "preprod", "mainnet"]
+      "networks": [
+        "preview",
+        "preprod",
+        "mainnet"
+      ]
     },
     {
       "id": "northstar-dex",
@@ -60,8 +76,22 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/northstar-dex.png",
       "url": "https://preprod.northstardex.com",
       "category": "defi",
-      "networks": ["preprod"],
+      "networks": [
+        "preprod"
+      ],
       "featured": true,
+      "new": true
+    },
+    {
+      "id": "night-heron",
+      "name": "Night Heron",
+      "description": "Blockchain-native Florida community association management (Ch. 718/719/720)",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/night-heron.svg",
+      "url": "https://nightheron.io",
+      "category": "other",
+      "networks": [
+        "preprod"
+      ],
       "new": true
     }
   ]
