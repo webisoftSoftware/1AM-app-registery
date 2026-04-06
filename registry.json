@@ -1,7 +1,18 @@
 {
   "version": 4,
-  "lastUpdated": "2026-03-30",
+  "lastUpdated": "2026-04-06",
   "apps": [
+    {
+      "id": "ascend-market",
+      "name": "Ascend Market",
+      "description": "Trade prediction markets with up to 100x+ leverage",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/ascend.svg",
+      "url": "https://testnet.ascend.market",
+      "category": "defi",
+      "networks": ["preview"],
+      "featured": true,
+      "new": true
+    },
     {
       "id": "zkmint",
       "name": "ZKMint",
@@ -31,8 +42,7 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
       "url": "https://dominion.fun",
       "category": "gaming",
-      "networks": ["preview", "preprod", "mainnet"],
-      "featured": true
+      "networks": ["preview", "preprod", "mainnet"]
     },
     {
       "id": "1am-explorer",
@@ -52,16 +62,6 @@
       "category": "defi",
       "networks": ["preprod"],
       "featured": true,
-      "new": true
-    },
-    {
-      "id": "ascend-market",
-      "name": "Ascend Market",
-      "description": "Trade prediction markets with up to 100x+ leverage",
-      "icon": "https://github.com/uzigun72-creator/1AM-app-registery/raw/refs/heads/main/icons/ascend.svg",
-      "url": "https://testnet.ascend.market",
-      "category": "defi",
-      "networks": ["preview"],
       "new": true
     }
   ]
