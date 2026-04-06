@@ -53,6 +53,16 @@
       "networks": ["preprod"],
       "featured": true,
       "new": true
+    },
+    {
+      "id": "ascend-market",
+      "name": "Ascend Market",
+      "description": "Trade prediction markets with up to 100x+ leverage",
+      "icon": "https://github.com/uzigun72-creator/1AM-app-registery/raw/refs/heads/main/icons/ascend.svg",
+      "url": "https://testnet.ascend.market",
+      "category": "defi",
+      "networks": ["preview"],
+      "new": true
     }
   ]
 }
