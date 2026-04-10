@@ -25,17 +25,6 @@
       "new": true
     },
     {
-      "id": "midnight-faucet",
-      "name": "Midnight Dust Faucet",
-      "description": "Get free dust tokens on Midnight mainnet",
-      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/midnight-faucet.svg",
-      "url": "https://midnight-dust-mainnet.nethermind.io",
-      "category": "tools",
-      "networks": ["mainnet"],
-      "featured": true,
-      "new": true
-    },
-    {
       "id": "dominion",
       "name": "Dominion",
       "description": "On-chain poker with mental poker cryptography and ZK proofs",
