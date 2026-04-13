@@ -52,6 +52,17 @@
       "networks": ["preprod"],
       "featured": true,
       "new": true
+    },
+    {
+      "id": "galaxyswap",
+      "name": "GalaxySwap",
+      "description": "Major Privacy DEX on Midnight",
+      "icon": "https://preprod.galaxyswap.io/logo.png",
+      "url": "https://preprod.galaxyswap.io",
+      "category": "defi",
+      "networks": ["preprod"],
+      "featured": false,
+      "new": true
     }
   ]
 }
