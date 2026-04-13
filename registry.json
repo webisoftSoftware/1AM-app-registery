@@ -57,11 +57,11 @@
       "id": "galaxyswap",
       "name": "GalaxySwap",
       "description": "Major Privacy DEX on Midnight",
-      "icon": "https://preprod.galaxyswap.io/logo.png",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/galaxyswap.png",
       "url": "https://preprod.galaxyswap.io",
       "category": "defi",
       "networks": ["preprod"],
-      "featured": false,
+      "featured": true,
       "new": true
     }
   ]
