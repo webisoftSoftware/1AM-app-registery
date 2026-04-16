@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-16",
   "apps": [
     {
       "id": "ascend-market",
@@ -61,6 +61,18 @@
       "url": "https://zkmint.1am.xyz",
       "category": "identity",
       "networks": ["preview", "preprod", "mainnet"],
+      "featured": true,
+      "new": true
+    },
+    {
+      "id": "midnight-city",
+      "name": "Midnight City",
+      "description": "On-chain gaming arcade on Midnight Network",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/midnight-city.png",
+      "url": "https://play.midnight.city/dashboard/game",
+      "category": "gaming",
+      "networks": ["mainnet"],
+      "fullscreen": true,
       "featured": true,
       "new": true
     }
