@@ -11,6 +11,7 @@
       "category": "gaming",
       "networks": ["mainnet"],
       "fullscreen": true,
+      "safeArea": false,
       "featured": true,
       "new": true
     },
