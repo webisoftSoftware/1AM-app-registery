@@ -5,13 +5,12 @@
     {
       "id": "midnight-city",
       "name": "Midnight City",
-      "description": "On-chain gaming arcade on Midnight Network",
+      "description": "On-chain AI simulation on Midnight Network",
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/midnight-city.png",
       "url": "https://play.midnight.city/dashboard/game",
       "category": "gaming",
       "networks": ["mainnet"],
-      "fullscreen": true,
-      "safeArea": false,
+      "immersive": true,
       "featured": true,
       "new": true
     },
