@@ -1,7 +1,18 @@
 {
   "version": 4,
-  "lastUpdated": "2026-04-16",
+  "lastUpdated": "2026-04-19",
   "apps": [
+    {
+      "id": "pulse",
+      "name": "Pulse",
+      "description": "AMM DEX with private swaps",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/pulse.png",
+      "url": "https://pulsefinance.org",
+      "category": "defi",
+      "networks": ["preprod"],
+      "featured": true,
+      "new": true
+    },
     {
       "id": "midnight-city",
       "name": "Midnight City",
@@ -75,15 +86,6 @@
       "networks": ["preview", "preprod", "mainnet"],
       "featured": true,
       "new": true
-    },
-    {
-      "id": "pulse",
-      "name": "Pulse",
-      "description": "AMM DEX with private swaps",
-      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/pulse.png",
-      "url": "https://pulsefinance.org",
-      "category": "defi",
-      "networks": ["preprod"]
     }
   ]
 }
