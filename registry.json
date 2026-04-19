@@ -75,6 +75,15 @@
       "networks": ["preview", "preprod", "mainnet"],
       "featured": true,
       "new": true
+    },
+    {
+      "id": "pulse",
+      "name": "Pulse",
+      "description": "AMM DEX with private swaps",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/pulse.png",
+      "url": "https://pulsefinance.org",
+      "category": "defi",
+      "networks": ["preprod"]
     }
   ]
 }
