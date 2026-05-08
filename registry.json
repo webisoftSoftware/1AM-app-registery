@@ -97,6 +97,17 @@
       "networks": ["preview", "preprod", "mainnet"],
       "featured": true,
       "new": true
+    },
+    {
+      "id": "nyx-dex",
+      "name": "NyxDex",
+      "description": "Privacy DeFi on Midnight",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/nyxdex.png",
+      "url": "https://nyxdex.io",
+      "category": "defi",
+      "networks": ["preview"],
+      "featured": true,
+      "new": true
     }
   ]
 }
