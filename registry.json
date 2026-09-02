@@ -57,6 +57,25 @@
       "new": true
     },
     {
+      "id": "quote-otd",
+      "name": "Quote of the Day",
+      "description": "Privacy-first quote publishing dApp on Midnight.",
+      "icon": "https://raw.githubusercontent.com/oluwatobiss/quote-otd/32ec3376f6c215f200e5c4f551585859bae67c90/public/favicon.svg",
+      "url": "https://quote-otd.netlify.app",
+      "category": "other",
+      "networks": ["preprod"],
+      "contracts": [
+        {
+          "address": "69b75171dc7a9f7593bd85044a420d942483743e4254135e938c3eb2b22f0b3a",
+          "network": "preprod",
+          "name": "Quote of the Day",
+          "role": "Application",
+          "description": "Quote of the Day application contract on Midnight preprod.",
+          "explorerUrl": "https://explorer.1am.xyz/contract/69b75171dc7a9f7593bd85044a420d942483743e4254135e938c3eb2b22f0b3a?network=preprod"
+        },
+      ]
+    },
+    {
       "id": "midnight-city",
       "name": "Midnight City",
       "description": "On-chain AI simulation on Midnight Network",
