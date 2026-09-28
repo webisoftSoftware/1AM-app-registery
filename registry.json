@@ -221,6 +221,24 @@
       "category": "defi",
       "networks": ["preview", "mainnet"],
       "new": true
+    },
+    {
+  "id": "tally",
+  "name": "Tally",
+  "description": "Private two-party loans on Midnight. Amounts and due dates stay off-ledger. Prove repaid standing: yes or no.",
+  "icon": "https://www.tallylend.site/tally-stick.svg",
+  "url": "https://www.tallylend.site",
+  "category": "defi",
+  "networks": ["preprod"],
+  "contracts": [
+    {
+      "address": "84c44946900ca4ad4456518b09a42c01424dd8b626797310c5ed5b4b933b10af",
+      "network": "preprod",
+      "name": "Tally desk contract",
+      "role": "Application",
+      "description": "Tally loan desk contract on Midnight Preprod"
     }
+  ]
+}
   ]
 }
