@@ -52,7 +52,7 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/pulse.png",
       "url": "https://pulsefinance.org",
       "category": "defi",
-      "networks": ["preprod"],
+      "networks": ["mainnet"],
       "featured": true,
       "new": true
     },
