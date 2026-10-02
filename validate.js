@@ -9,7 +9,7 @@ const fs = require('fs');
 const path = require('path');
 
 const VALID_CATEGORIES = ['defi', 'tools', 'gaming', 'social', 'nft', 'identity', 'other'];
-const VALID_NETWORKS = ['preview', 'preprod', 'mainnet', '*'];
+const VALID_NETWORKS = ['stagenet', 'preview', 'preprod', 'mainnet', '*'];
 const VALID_CONTRACT_THEMES = ['ascend'];
 const MAX_ID_LENGTH = 32;
 const MAX_NAME_LENGTH = 40;
@@ -118,7 +118,7 @@ for (const app of registry.apps) {
         }
 
         if (!VALID_NETWORKS.includes(contract.network) || contract.network === '*') {
-          fail(`Invalid contract network "${contract.network}" — must be one of: preview, preprod, mainnet`);
+          fail(`Invalid contract network "${contract.network}" — must be one of: stagenet, preview, preprod, mainnet`);
         } else if (!Array.isArray(app.networks) || (!app.networks.includes('*') && !app.networks.includes(contract.network))) {
           fail(`contract network "${contract.network}" is not listed in app.networks`);
         } else {

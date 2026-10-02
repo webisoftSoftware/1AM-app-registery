@@ -52,8 +52,18 @@
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/pulse.png",
       "url": "https://pulsefinance.org",
       "category": "defi",
-      "networks": ["preprod"],
+      "networks": ["mainnet"],
       "featured": true,
+      "new": true
+    },
+    {
+      "id": "pulse-pump",
+      "name": "Pulse Pump",
+      "description": "Create memecoins and trade Midnight launches on Pulse Pump.",
+      "icon": "https://pulsepump.lol/brand/logo-mark.svg",
+      "url": "https://pulsepump.lol",
+      "category": "defi",
+      "networks": ["mainnet"],
       "new": true
     },
     {
@@ -192,13 +202,13 @@
       "new": true,
       "contracts": [
         {
-          "address": "4fd31443997bd04bbf0b94e2ef3d5b0ff05479c4fb80bcac0dc74b2c763282e5",
+          "address": "5de1a75b560c1fad56bd4b41eece7ec15f16e8e0734617b46afd0a664a1e4069",
           "network": "mainnet",
           "name": "Midnight Private Auction",
           "role": "Application",
           "description": "ZK sealed-bid auction contract with AES-256-GCM encrypted private state on Midnight mainnet.",
           "verified": true,
-          "explorerUrl": "https://explorer.1am.xyz/contract/4fd31443997bd04bbf0b94e2ef3d5b0ff05479c4fb80bcac0dc74b2c763282e5"
+          "explorerUrl": "https://explorer.1am.xyz/contract/5de1a75b560c1fad56bd4b41eece7ec15f16e8e0734617b46afd0a664a1e4069"
         }
       ]
     },
