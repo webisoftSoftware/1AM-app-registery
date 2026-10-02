@@ -57,6 +57,16 @@
       "new": true
     },
     {
+      "id": "pulse-pump",
+      "name": "Pulse Pump",
+      "description": "Create memecoins and trade Midnight launches on Pulse Pump.",
+      "icon": "https://pulsepump.lol/brand/logo-mark.svg",
+      "url": "https://pulsepump.lol",
+      "category": "defi",
+      "networks": ["mainnet"],
+      "new": true
+    },
+    {
       "id": "midnight-city",
       "name": "Midnight City",
       "description": "On-chain AI simulation on Midnight Network",
