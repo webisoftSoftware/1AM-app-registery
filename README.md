@@ -78,6 +78,7 @@ We'll review and merge within 24 hours.
 | `networks` | string[] | Yes | Supported networks: `stagenet`, `preview`, `preprod`, `mainnet`, or `*` for all. |
 | `contracts` | object[] | No | Verified public contracts for this app. Used by 1AM Explorer to show partner themes and verified badges. |
 | `featured` | boolean | No | Set by maintainers only. Do not include in submissions. |
+| `featuredOrder` | integer | No | Maintainer-defined featured priority. Nonnegative; lower values appear first in mobile Discover. Requires `featured: true`. |
 | `new` | boolean | No | Automatically set for new listings. Removed after 30 days. |
 
 ### Contract Specification

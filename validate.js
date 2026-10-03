@@ -94,6 +94,13 @@ for (const app of registry.apps) {
     pass(`networks: ${app.networks.join(', ')}`);
   }
 
+  // Optional featured ordering is managed by maintainers.
+  if (app.featuredOrder !== undefined) {
+    if (app.featured !== true || !Number.isSafeInteger(app.featuredOrder) || app.featuredOrder < 0) {
+      fail('"featuredOrder" must be a nonnegative safe integer on a featured app');
+    }
+  }
+
   // contracts
   if (app.contracts !== undefined) {
     if (!Array.isArray(app.contracts)) {
