@@ -64,6 +64,7 @@
       "url": "https://pulsepump.lol",
       "category": "defi",
       "networks": ["mainnet"],
+      "featured": true,
       "new": true
     },
     {
