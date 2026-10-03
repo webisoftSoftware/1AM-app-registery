@@ -272,6 +272,16 @@
       "description": "Tally loan desk contract on Midnight Preprod"
     }
   ]
-}
+},
+    {
+      "id": "lumptools",
+      "name": "LumpTools",
+      "description": "Midnight and Cardano token explorer: live prices, charts, liquidity, holders and wallet portfolios with P&L.",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/lumptools.png",
+      "url": "https://lumptools.xyz/midnight",
+      "category": "tools",
+      "networks": ["mainnet"],
+      "new": true
+    }
   ]
 }
