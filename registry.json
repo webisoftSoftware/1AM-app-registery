@@ -65,6 +65,7 @@
       "category": "defi",
       "networks": ["mainnet"],
       "featured": true,
+      "featuredOrder": 0,
       "new": true
     },
     {
