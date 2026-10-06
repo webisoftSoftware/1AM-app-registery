@@ -282,18 +282,6 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
-    },
-    {
-      "id": "midnight-radio",
-      "name": "Midnight Radio",
-      "description": "Community radio for the Midnight ecosystem: original music, live shows, podcasts and community voices.",
-      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/midnight-radio.png",
-      "url": "https://www.midnightradio.cloud/",
-      "category": "social",
-      "networks": [
-        "*"
-      ],
-      "new": true
     }
   ]
 }
