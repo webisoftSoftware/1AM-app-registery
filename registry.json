@@ -115,11 +115,11 @@
     {
       "id": "dominion",
       "name": "Dominion",
-      "description": "On-chain poker with mental poker cryptography and ZK proofs",
+      "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight preprod.",
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
-      "url": "https://dominion.fun",
+      "url": "https://dominion-preprod.1am.xyz/",
       "category": "gaming",
-      "networks": ["preview", "preprod", "mainnet"]
+      "networks": ["preprod"]
     },
     {
       "id": "1am-explorer",
