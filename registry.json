@@ -126,7 +126,7 @@
       "name": "Dominion",
       "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight stagenet.",
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
-      "url": "https://dominion-stagenet.1am.xyz/t",
+      "url": "https://dominion-stagenet.1am.xyz/",
       "category": "gaming",
       "networks": [
         "stagenet"
