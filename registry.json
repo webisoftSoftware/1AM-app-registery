@@ -113,15 +113,6 @@
       "new": true
     },
     {
-      "id": "dominion",
-      "name": "Dominion",
-      "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight preprod.",
-      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
-      "url": "https://dominion-preprod.1am.xyz/",
-      "category": "gaming",
-      "networks": ["preprod"]
-    },
-    {
       "id": "dominion-stagenet",
       "name": "Dominion",
       "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight stagenet.",
