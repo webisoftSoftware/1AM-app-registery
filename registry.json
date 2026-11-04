@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "lastUpdated": "2026-08-04",
+  "version": 7,
+  "lastUpdated": "2026-11-03",
   "apps": [
     {
       "id": "ascend-dex",
@@ -113,13 +113,16 @@
       "new": true
     },
     {
-      "id": "dominion",
+      "id": "dominion-stagenet",
       "name": "Dominion",
-      "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight preprod.",
+      "description": "Alpha: Texas Hold'em with verifiable card shuffles and on-chain settlement on Midnight stagenet.",
       "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dominion.svg",
-      "url": "https://dominion-preprod.1am.xyz/",
+      "url": "https://dominion-stagenet.1am.xyz/",
       "category": "gaming",
-      "networks": ["preprod"]
+      "networks": [
+        "stagenet"
+      ],
+      "new": true
     },
     {
       "id": "1am-explorer",
