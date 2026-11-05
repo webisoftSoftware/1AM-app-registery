@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "blockedDomains": [],
+  "blockedAddresses": [],
+  "protectedDomains": [
+    "midnight.network",
+    "1am.xyz",
+    "zkmint.1am.xyz",
+    "dominion.fun",
+    "proofstation.io",
+    "midnightexplorer.com"
+  ]
+}
