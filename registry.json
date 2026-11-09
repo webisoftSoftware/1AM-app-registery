@@ -295,6 +295,16 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
+    },
+    {
+      "id": "nightshade-dex",
+      "name": "Nightshade DEX",
+      "description": "Order-book DEX on Midnight: swaps, limit and stop orders, with zero-knowledge proofs made in your browser.",
+      "icon": "https://nightshade.finance/favicon.svg",
+      "url": "https://nightshade.finance",
+      "category": "defi",
+      "networks": ["mainnet"],
+      "new": true
     }
   ]
 }
