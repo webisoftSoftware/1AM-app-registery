@@ -295,6 +295,26 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
+    },
+    {
+      "id": "shieldedpools",
+      "name": "Shielded Pools",
+      "description": "A 1:1 private wrapper for Midnight's unshielded tokens.",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/shieldedpools.png",
+      "url": "https://preprod.shieldedpools.io/",
+      "category": "defi",
+      "networks": ["preprod"],
+      "new": true,
+      "contracts": [
+        {
+          "address": "bc3e6f3bfbe1a6bad120fc0af8bde3557576c6627047e1cd3e84c358aa9190e2",
+          "network": "preprod",
+          "name": "Shielded Pools",
+          "role": "Application",
+          "description": "Shielded Pools token-wrapper contract on Midnight Preprod.",
+          "explorerUrl": "https://explorer.1am.xyz/contract/bc3e6f3bfbe1a6bad120fc0af8bde3557576c6627047e1cd3e84c358aa9190e2?network=preprod"
+        }
+      ]
     }
   ]
 }
