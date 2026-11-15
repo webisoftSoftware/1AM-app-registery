@@ -148,6 +148,12 @@ We reserve the right to remove listings that violate these criteria.
 
 ---
 
+## Phishing blocklist
+
+The wallet receives the phishing list through the [1AM API](https://api.1am.xyz/registry/phishing). To propose a blocked domain, open a pull request editing [`phishing-list.json`](./phishing-list.json). Add the lowercase hostname to `blockedDomains` and include supporting evidence in the pull request. Use a bare hostname such as `phishing.example`.
+
+---
+
 ## Support
 
 - **General**: [team@1am.xyz](mailto:team@1am.xyz)
