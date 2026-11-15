@@ -295,6 +295,16 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
+    },
+    {
+      "id": "dstorage-pro",
+      "name": "dStorage Pro",
+      "description": "Pay-as-you-go transaction signing for dApps on many networks, like Midnight and Arweave: fund once, users skip fees.",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/dstorage-pro.png",
+      "url": "https://portal.dstorage.pro",
+      "category": "tools",
+      "networks": ["preprod", "mainnet"],
+      "new": true
     }
   ]
 }
