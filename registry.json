@@ -295,6 +295,24 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
+    },
+    {
+      "id": "farmswap",
+      "name": "Farmswap",
+      "description": "Swap, place limit orders, provide liquidity and farm on Midnight. Test network.",
+      "icon": "https://raw.githubusercontent.com/webisoftSoftware/1AM-app-registery/main/icons/farmswap.svg",
+      "url": "https://preview.farmswap.io",
+      "category": "defi",
+      "networks": ["preview"],
+      "contracts": [
+        {
+          "address": "b699d5fc3dc8fe597674a80bb32c7c65c727fe525effbece609429574afed80b",
+          "network": "preview",
+          "name": "Farmswap DEX",
+          "role": "Application",
+          "description": "Farmswap's pools and swaps on Midnight Preview."
+        }
+      ]
     }
   ]
 }
