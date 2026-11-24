@@ -305,6 +305,33 @@
       "category": "tools",
       "networks": ["mainnet"],
       "new": true
+    },
+    {
+      "id": "hushh-midnight",
+      "name": "Hushh on Midnight",
+      "description": "Send NIGHT silently. Tip a .night or Passport name; they claim it with a secret only they hold.",
+      "icon": "https://midnight-hushh.vercel.app/icon.png",
+      "url": "https://midnight-hushh.vercel.app/",
+      "category": "social",
+      "networks": ["preprod"],
+      "contracts": [
+        {
+          "address": "c6c3efd0d1a593cf38b2930f486c7c27accef8062e978a2deceb99cc27a19980",
+          "network": "preprod",
+          "name": "Hushh Tip Vault",
+          "role": "Application",
+          "description": "Shielded fixed-denomination tip vault with secret-based claims.",
+          "explorerUrl": "https://explorer.1am.xyz/contract/c6c3efd0d1a593cf38b2930f486c7c27accef8062e978a2deceb99cc27a19980?network=preprod"
+        },
+        {
+          "address": "e9a499d3952b55d1e2b7bf19fc601553da749d585be740128030aa0ec9c21563",
+          "network": "preprod",
+          "name": "Hushh Identity Registry",
+          "role": "Application",
+          "description": "Passport identity registry binding .night handles to custody accounts.",
+          "explorerUrl": "https://explorer.1am.xyz/contract/e9a499d3952b55d1e2b7bf19fc601553da749d585be740128030aa0ec9c21563?network=preprod"
+        }
+      ]
     }
   ]
 }
