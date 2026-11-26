@@ -248,13 +248,13 @@
       "new": true,
       "contracts": [
         {
-          "address": "5de1a75b560c1fad56bd4b41eece7ec15f16e8e0734617b46afd0a664a1e4069",
+          "address": "118dc9f773df2137a1e0cfb0e9e0243dbf1c64e6a908c84442ca8bb272347e78",
           "network": "mainnet",
           "name": "Midnight Private Auction",
           "role": "Application",
           "description": "ZK sealed-bid auction contract with AES-256-GCM encrypted private state on Midnight mainnet.",
           "verified": true,
-          "explorerUrl": "https://explorer.1am.xyz/contract/5de1a75b560c1fad56bd4b41eece7ec15f16e8e0734617b46afd0a664a1e4069"
+          "explorerUrl": "https://explorer.1am.xyz/contract/118dc9f773df2137a1e0cfb0e9e0243dbf1c64e6a908c84442ca8bb272347e78"
         }
       ]
     },
